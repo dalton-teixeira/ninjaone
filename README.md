@@ -1,5 +1,10 @@
 # ninjaone
 
+## Dependencies
+Requires nodejs
+
+## Installation
+`npm run install`
 ## Run tests in UI Mode
 `npx playwright test --ui`
 
