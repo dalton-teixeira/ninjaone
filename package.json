@@ -1,0 +1,25 @@
+{
+  "name": "ninjaone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalton-teixeira/ninjaone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalton-teixeira/ninjaone/issues"
+  },
+  "homepage": "https://github.com/dalton-teixeira/ninjaone#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.10"
+  }
+}
