@@ -1,5 +1,5 @@
 # ninjaone
-
+Run cross browser tests as well as api tests. 
 ## Dependencies
 Requires nodejs
 
